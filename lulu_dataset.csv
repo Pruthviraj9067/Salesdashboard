@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Age,Gender,Customer_Segment,Product_Category,Purchase_Amount_USD,Quantity,Visit_Frequency,Payment_Method
+CUST0001,Tammy Cohen,31,Male,Budget,Grocery,12.76,6,12,Card
+CUST0002,Michelle Edwards,24,Male,Budget,Electronics,17.01,4,2,Card
+CUST0003,Kirk Ewing,25,Female,Premium,Dairy,125.4,9,7,Cash
+CUST0004,Matthew Barber,45,Other,Budget,Home Appliances,74.29,2,3,Wallet
+CUST0005,Clifford Davis,38,Male,Premium,Home Appliances,99.44,8,7,Card
+CUST0006,Dustin Williams,18,Other,Regular,Fashion,54.31,4,11,Wallet
+CUST0007,Stephanie Anderson,37,Other,Regular,Home Appliances,138.58,1,6,Card
+CUST0008,Diana English,18,Female,Regular,Home Appliances,133.06,3,1,Card
+CUST0009,James Sanchez,32,Other,Regular,Dairy,82.36,6,7,Wallet
+CUST0010,Kelly Rodriguez,36,Male,Premium,Electronics,53.52,5,9,Cash
+CUST0011,Nathan Murray,43,Male,Premium,Grocery,136.02,4,9,Card
+CUST0012,Randall Martinez,22,Other,Budget,Electronics,125.6,5,8,Cash
+CUST0013,Sara Thomas,34,Female,Premium,Grocery,96.88,1,11,Wallet
+CUST0014,Jessica Velez,43,Female,Premium,Beverages,170.33,6,11,Wallet
+CUST0015,Elizabeth Johnson,18,Other,Regular,Beverages,24.65,6,8,Card
+CUST0016,Christine Cordova,21,Other,Budget,Electronics,84.55,7,9,Card
+CUST0017,Melissa Roberts,25,Other,Regular,Grocery,78.66,1,6,Cash
+CUST0018,Mary Barnes,43,Female,Budget,Dairy,146.59,7,7,Card
+CUST0019,Jessica Calhoun,39,Other,Premium,Beverages,28.58,2,4,Cash
+CUST0020,Michael Morrison,41,Male,Premium,Beverages,82.85,8,5,Wallet
+CUST0021,Julia Ashley,19,Male,Premium,Dairy,147.64,4,6,Card
+CUST0022,Courtney Hanson,18,Other,Budget,Grocery,33.66,9,6,Cash
+CUST0023,Charles Dean,39,Female,Budget,Dairy,145.15,7,6,Wallet
+CUST0024,Jeff Carter,25,Other,Regular,Electronics,113.39,8,6,Wallet
+CUST0025,Lisa Tate,46,Male,Budget,Fashion,61.19,5,8,Card
+CUST0026,Dr. Jane Jimenez MD,18,Other,Budget,Beverages,67.59,2,5,Wallet
+CUST0027,Rachel Sanchez,18,Male,Premium,Fashion,160.68,3,6,Card
+CUST0028,Leah Allen,42,Male,Regular,Home Appliances,96.84,5,11,Card
+CUST0029,Catherine Jimenez,44,Other,Budget,Home Appliances,55.4,2,9,Card
+CUST0030,Mark Hall,22,Other,Budget,Electronics,128.14,4,10,Cash
+CUST0031,Danielle Smith,20,Male,Budget,Beverages,134.28,3,5,Cash
+CUST0032,Tonya Mcmahon,36,Male,Budget,Grocery,67.62,3,9,Wallet
+CUST0033,Mark Hobbs,39,Female,Premium,Grocery,99.09,6,7,Wallet
+CUST0034,Elizabeth Wilson,26,Male,Regular,Fashion,113.52,5,4,Card
+CUST0035,Jamie Carney,35,Male,Regular,Grocery,70.63,4,8,Wallet
+CUST0036,Elizabeth Cole,27,Female,Premium,Home Appliances,135.73,2,12,Wallet
+CUST0037,Johnathan Romero,21,Other,Budget,Home Appliances,110.81,9,13,Card
+CUST0038,Chad Adams,19,Other,Budget,Dairy,74.05,9,11,Cash
+CUST0039,Jenna Phillips,34,Male,Regular,Electronics,78.07,5,2,Cash
+CUST0040,Terry Evans,42,Female,Premium,Home Appliances,127.79,2,6,Cash
+CUST0041,Elizabeth Roberts,24,Male,Budget,Home Appliances,97.86,9,8,Wallet
+CUST0042,Erin Clark,36,Male,Budget,Beverages,63.97,6,13,Wallet
+CUST0043,Meredith Johnson,46,Other,Budget,Grocery,49.38,9,2,Card
+CUST0044,Lisa Smith,43,Other,Regular,Home Appliances,133.08,1,11,Cash
+CUST0045,Vanessa Perry,18,Other,Budget,Dairy,80.65,3,6,Cash
+CUST0046,Benjamin Mata,39,Female,Premium,Beverages,119.12,6,5,Card
+CUST0047,Matthew Robinson,47,Male,Budget,Dairy,100.57,8,2,Cash
+CUST0048,Amber Rodriguez,37,Female,Budget,Dairy,151.99,9,10,Card
+CUST0049,Sara Moran DVM,46,Other,Regular,Dairy,90.01,2,9,Wallet
+CUST0050,Travis Beck,18,Other,Premium,Grocery,168.45,3,2,Wallet
+CUST0051,Alexa Smith,47,Male,Premium,Home Appliances,84.99,3,3,Cash
+CUST0052,Latoya Harris,25,Other,Regular,Home Appliances,163.29,9,11,Card
+CUST0053,Jacqueline Cross,22,Other,Budget,Dairy,74.63,5,11,Card
+CUST0054,Michael Davidson,51,Other,Premium,Dairy,105.17,5,4,Cash
+CUST0055,Jerome Rodgers,33,Male,Budget,Beverages,113.14,6,9,Wallet
+CUST0056,Cameron Carter,41,Other,Premium,Home Appliances,27.2,7,3,Card
+CUST0057,Carrie Wagner,23,Male,Budget,Electronics,94.77,8,12,Card
+CUST0058,Brandon Francis,42,Female,Budget,Dairy,113.07,3,1,Cash
+CUST0059,Emily Lopez,24,Male,Premium,Grocery,129.38,7,8,Wallet
+CUST0060,Jacqueline Kemp,22,Male,Premium,Grocery,74.72,4,5,Cash
+CUST0061,Amy Ruiz,45,Male,Premium,Electronics,10.61,9,6,Wallet
+CUST0062,Sue Simpson,46,Male,Budget,Dairy,129.35,9,4,Wallet
+CUST0063,Christopher Williams,35,Male,Budget,Grocery,37.32,4,11,Cash
+CUST0064,Donald Ferguson MD,26,Other,Regular,Electronics,151.05,2,6,Cash
+CUST0065,Mary Gonzalez,38,Female,Premium,Grocery,189.5,1,4,Cash
+CUST0066,Mary Frederick,43,Female,Regular,Home Appliances,52.51,2,11,Card
+CUST0067,Jennifer Wiggins DDS,52,Other,Regular,Fashion,123.84,1,3,Cash
+CUST0068,Tracy Coleman,36,Female,Budget,Grocery,160.06,1,2,Wallet
+CUST0069,Amber Walker,45,Male,Budget,Home Appliances,135.7,7,11,Card
+CUST0070,William Perez,18,Other,Regular,Fashion,97.26,2,7,Wallet
+CUST0071,Benjamin Mayer,26,Female,Regular,Beverages,53.97,1,3,Wallet
+CUST0072,Patricia Williams,33,Male,Budget,Dairy,76.95,9,5,Cash
+CUST0073,Benjamin Clark,51,Other,Budget,Fashion,110.34,3,3,Cash
+CUST0074,Adam Taylor,30,Female,Budget,Electronics,149.02,1,14,Cash
+CUST0075,Karen Simmons,42,Female,Budget,Beverages,130.96,5,13,Card
+CUST0076,Carmen Owens,28,Other,Premium,Dairy,150.04,8,2,Cash
+CUST0077,John Williams,26,Other,Budget,Home Appliances,109.44,8,12,Wallet
+CUST0078,Madison Adams,29,Female,Budget,Beverages,144.41,1,7,Cash
+CUST0079,Corey Barnett,37,Other,Budget,Electronics,67.94,4,11,Card
+CUST0080,Philip Berry,20,Other,Premium,Beverages,124.92,1,1,Cash
+CUST0081,Nicole Yu,44,Male,Premium,Beverages,117.76,9,5,Cash
+CUST0082,Rodney Lang,49,Male,Premium,Grocery,77.18,4,3,Wallet
+CUST0083,Amanda Buck,35,Other,Budget,Beverages,110.72,9,13,Wallet
+CUST0084,Ryan Mccall,24,Other,Regular,Dairy,70.59,9,8,Cash
+CUST0085,Miranda Jensen,37,Female,Budget,Home Appliances,32.5,5,6,Wallet
+CUST0086,Jessica Robinson,36,Male,Premium,Dairy,127.97,8,3,Card
+CUST0087,Crystal Johnson,33,Male,Budget,Home Appliances,50.03,5,10,Cash
+CUST0088,Gregory Anderson,42,Male,Regular,Dairy,149.3,6,13,Card
+CUST0089,Walter Jones,24,Male,Premium,Dairy,90.96,4,13,Card
+CUST0090,Dustin West,27,Female,Budget,Beverages,140.24,4,8,Cash
+CUST0091,Richard Mercer,34,Female,Premium,Grocery,75.02,5,12,Card
+CUST0092,Jose Johnson,34,Male,Regular,Electronics,5.0,2,1,Card
+CUST0093,Crystal Hall,36,Female,Premium,Grocery,23.43,6,14,Cash
+CUST0094,Stacy Collins,45,Female,Budget,Dairy,129.46,7,10,Card
+CUST0095,Sara Parks,43,Female,Regular,Grocery,149.05,6,5,Card
+CUST0096,Barbara Maldonado,51,Male,Premium,Beverages,123.99,1,7,Cash
+CUST0097,John Harper,30,Male,Regular,Home Appliances,109.16,8,12,Card
+CUST0098,Victoria Rice,29,Male,Regular,Fashion,84.3,2,2,Card
+CUST0099,Christian Thomas,18,Male,Budget,Electronics,5.69,9,6,Card
+CUST0100,Tracy Marshall,25,Other,Budget,Home Appliances,118.19,4,2,Wallet
+CUST0101,Kelly Hamilton,23,Male,Budget,Fashion,5.0,1,6,Card
+CUST0102,April Knox,19,Other,Regular,Home Appliances,127.22,7,3,Wallet
+CUST0103,Melanie Galvan,54,Other,Premium,Fashion,195.3,1,3,Wallet
+CUST0104,Michael Anthony,31,Other,Regular,Beverages,82.24,1,11,Wallet
+CUST0105,Nathan Davis,29,Male,Budget,Grocery,67.04,5,2,Wallet
+CUST0106,Erica Pena,34,Male,Regular,Fashion,15.73,4,7,Cash
+CUST0107,Rodney Nunez,32,Other,Budget,Home Appliances,80.45,7,7,Card
+CUST0108,Kimberly Miller,18,Male,Premium,Beverages,209.28,9,8,Card
+CUST0109,Tammy Dyer,55,Other,Budget,Fashion,131.53,2,4,Wallet
+CUST0110,George Salinas,39,Male,Budget,Home Appliances,76.84,7,9,Cash
+CUST0111,Justin Mullins,37,Male,Premium,Dairy,123.82,7,9,Cash
+CUST0112,Joshua Smith,37,Other,Premium,Fashion,134.08,4,1,Cash
+CUST0113,Brittany Smith,31,Male,Regular,Electronics,42.51,9,13,Cash
+CUST0114,Jessica Ho,42,Other,Regular,Dairy,175.63,7,7,Card
+CUST0115,Isabel Lewis PhD,45,Male,Premium,Dairy,118.18,7,4,Cash
+CUST0116,Christopher Mitchell,49,Male,Regular,Home Appliances,127.75,6,8,Card
+CUST0117,John George,32,Female,Budget,Grocery,141.01,8,1,Wallet
+CUST0118,Kristy Griffith,29,Other,Regular,Electronics,76.68,9,9,Cash
+CUST0119,Mr. David Foster Jr.,20,Other,Regular,Dairy,86.57,1,9,Card
+CUST0120,Heather Knight,49,Male,Premium,Beverages,58.45,4,13,Wallet
+CUST0121,Mr. Ivan Sanchez,44,Other,Budget,Dairy,110.21,1,2,Card
+CUST0122,Dana Hill,35,Female,Regular,Beverages,145.93,5,6,Wallet
+CUST0123,Christopher Little,30,Female,Budget,Fashion,152.37,7,8,Cash
+CUST0124,Gregory Fowler,26,Female,Premium,Beverages,112.67,2,1,Wallet
+CUST0125,John Mitchell,24,Female,Regular,Beverages,197.95,5,11,Card
+CUST0126,Mary Clark,29,Male,Regular,Home Appliances,5.99,5,7,Card
+CUST0127,Daniel Greene,35,Male,Premium,Home Appliances,104.01,9,6,Cash
+CUST0128,Mary Best,34,Female,Premium,Home Appliances,87.91,8,8,Wallet
+CUST0129,Elizabeth Green,27,Male,Regular,Fashion,172.21,2,13,Card
+CUST0130,Amy Edwards,43,Other,Budget,Beverages,55.83,2,2,Card
+CUST0131,Sherry Young,36,Female,Regular,Fashion,146.05,9,14,Card
+CUST0132,Heather Smith,42,Male,Regular,Beverages,70.07,3,4,Card
+CUST0133,Laura Rice,40,Female,Regular,Electronics,151.96,1,12,Cash
+CUST0134,Robert Anderson,70,Male,Regular,Beverages,138.63,2,14,Cash
+CUST0135,Angela Taylor,58,Male,Budget,Dairy,82.3,8,14,Cash
+CUST0136,Dr. Brian Jones,24,Female,Budget,Beverages,140.79,2,6,Card
+CUST0137,Dennis Moody,42,Female,Premium,Beverages,86.43,9,8,Cash
+CUST0138,Angel Wilkinson,18,Male,Premium,Home Appliances,31.26,3,4,Card
+CUST0139,Jeffrey Williams,39,Female,Budget,Home Appliances,124.72,2,4,Card
+CUST0140,Michael Bishop MD,46,Female,Regular,Electronics,17.69,2,13,Wallet
+CUST0141,Maria Barker MD,48,Other,Budget,Grocery,61.99,9,3,Card
+CUST0142,Cindy Schneider,33,Female,Budget,Beverages,75.68,3,4,Wallet
+CUST0143,Thomas Klein,23,Male,Premium,Fashion,139.29,8,14,Cash
+CUST0144,Angela Hall,25,Male,Premium,Beverages,33.74,2,1,Wallet
+CUST0145,Keith Poole,43,Other,Premium,Grocery,23.75,6,6,Card
+CUST0146,Sydney Hernandez,18,Female,Premium,Fashion,145.01,9,6,Cash
+CUST0147,Austin Barron,42,Male,Premium,Beverages,95.2,8,9,Wallet
+CUST0148,Kevin Brown,46,Other,Regular,Home Appliances,118.11,3,14,Wallet
+CUST0149,Kathryn Poole,18,Other,Premium,Fashion,70.5,4,9,Cash
+CUST0150,Jonathon Ryan,32,Male,Premium,Home Appliances,91.66,5,5,Card
+CUST0151,Robin Bell,46,Female,Premium,Beverages,114.8,3,3,Cash
+CUST0152,Ralph Wilson,36,Female,Regular,Fashion,111.45,1,11,Wallet
+CUST0153,Jennifer Frazier DDS,44,Male,Premium,Fashion,119.74,8,11,Wallet
+CUST0154,Randy Mitchell,32,Female,Premium,Dairy,87.8,5,9,Cash
+CUST0155,Steven Crawford MD,26,Male,Regular,Fashion,60.97,9,13,Cash
+CUST0156,Abigail Contreras,53,Male,Budget,Fashion,92.61,6,11,Card
+CUST0157,Renee Harris,28,Male,Premium,Electronics,106.76,5,7,Wallet
+CUST0158,Christine Smith,39,Male,Budget,Grocery,230.55,8,3,Cash
+CUST0159,Lindsey Ford,43,Female,Budget,Grocery,173.26,3,4,Card
+CUST0160,Jason Newton,32,Other,Budget,Fashion,115.79,5,11,Wallet
+CUST0161,David Davis,49,Female,Premium,Dairy,113.36,2,10,Card
+CUST0162,Jeremy Sparks,28,Other,Budget,Electronics,5.0,7,9,Wallet
+CUST0163,Jeremy Shields,18,Other,Regular,Electronics,71.24,1,8,Wallet
+CUST0164,Marcus Navarro,29,Male,Regular,Beverages,107.07,8,4,Wallet
+CUST0165,Joshua Elliott,18,Female,Premium,Fashion,77.23,9,7,Cash
+CUST0166,Hayden Boyle,33,Male,Regular,Home Appliances,195.37,7,5,Wallet
+CUST0167,Kara Taylor,18,Other,Premium,Home Appliances,116.92,5,11,Wallet
+CUST0168,Darlene Liu,21,Female,Budget,Beverages,181.41,6,9,Cash
+CUST0169,Rachel Spencer,33,Female,Budget,Home Appliances,81.01,5,6,Wallet
+CUST0170,Margaret Anderson,22,Other,Budget,Electronics,93.53,7,7,Wallet
+CUST0171,Anthony Jones,18,Female,Premium,Beverages,200.38,2,3,Wallet
+CUST0172,Mitchell Cox,29,Female,Budget,Electronics,76.03,8,10,Card
+CUST0173,Noah Chaney,24,Male,Regular,Beverages,104.24,1,4,Wallet
+CUST0174,Richard Adkins,45,Other,Budget,Home Appliances,164.64,5,9,Cash
+CUST0175,Scott Roberson,40,Male,Regular,Home Appliances,80.33,7,5,Wallet
+CUST0176,Arthur Vazquez,38,Female,Regular,Dairy,191.54,8,5,Cash
+CUST0177,Melanie Ward,32,Other,Premium,Fashion,103.7,8,8,Cash
+CUST0178,Crystal Dean,34,Male,Regular,Grocery,112.93,8,2,Cash
+CUST0179,Danielle Olsen,32,Male,Budget,Home Appliances,88.1,2,2,Card
+CUST0180,Matthew Lara,28,Female,Budget,Beverages,181.54,2,6,Cash
+CUST0181,Jennifer Fisher,45,Female,Regular,Grocery,146.03,2,8,Wallet
+CUST0182,William Maynard,25,Other,Budget,Electronics,172.02,4,1,Card
+CUST0183,Andrea Terrell,38,Female,Regular,Home Appliances,115.45,1,6,Card
+CUST0184,Ebony Melendez,49,Male,Regular,Dairy,105.99,8,12,Wallet
+CUST0185,Cynthia Mitchell,18,Female,Budget,Beverages,44.57,9,10,Card
+CUST0186,Jason Lopez,41,Male,Premium,Dairy,90.89,5,5,Cash
+CUST0187,Gilbert Mitchell,40,Female,Premium,Beverages,64.63,9,5,Cash
+CUST0188,Sarah Mccarthy,21,Other,Budget,Grocery,5.0,6,6,Wallet
+CUST0189,Lacey Price,52,Other,Budget,Grocery,140.8,7,12,Card
+CUST0190,Nancy Roberts,36,Other,Premium,Dairy,117.25,5,12,Wallet
+CUST0191,David Smith,56,Male,Budget,Beverages,104.71,7,3,Wallet
+CUST0192,Laura Garrett,27,Other,Premium,Grocery,155.83,3,12,Cash
+CUST0193,Adrienne Diaz,47,Other,Budget,Beverages,116.04,3,3,Wallet
+CUST0194,Michael Caldwell,32,Other,Budget,Electronics,207.28,6,1,Wallet
+CUST0195,Michael Melendez,45,Other,Budget,Dairy,156.16,4,4,Card
+CUST0196,Karen Rivera,43,Male,Regular,Grocery,112.9,1,1,Cash
+CUST0197,Scott Jacobs,32,Other,Premium,Home Appliances,123.35,4,9,Card
+CUST0198,Nicole Butler,33,Female,Budget,Beverages,122.53,7,6,Cash
+CUST0199,Joann Boyle,39,Female,Regular,Beverages,108.94,4,9,Card
+CUST0200,Andre Barry,24,Male,Regular,Home Appliances,58.16,8,5,Wallet
+CUST0201,Edwin Davis,52,Male,Premium,Electronics,111.54,8,13,Cash
+CUST0202,Jacob Mcfarland,52,Male,Regular,Grocery,45.69,3,10,Wallet
+CUST0203,Carrie Wright,36,Other,Regular,Grocery,31.34,7,3,Wallet
+CUST0204,David Duffy,32,Female,Premium,Beverages,67.7,8,4,Wallet
+CUST0205,Kimberly Powell,18,Female,Budget,Dairy,109.38,2,3,Wallet
+CUST0206,Frances Smith,32,Female,Regular,Home Appliances,87.47,7,7,Wallet
+CUST0207,Monica Crosby,19,Other,Budget,Home Appliances,125.16,4,13,Card
+CUST0208,Jeremy Duke,42,Other,Premium,Electronics,31.55,6,13,Cash
+CUST0209,Dennis Mendez,54,Female,Budget,Electronics,104.03,4,11,Wallet
+CUST0210,Jason West,24,Male,Budget,Grocery,25.45,6,1,Cash
+CUST0211,Logan Smith,37,Female,Regular,Fashion,172.01,5,6,Wallet
+CUST0212,Kathleen Brooks,54,Female,Budget,Dairy,116.82,7,6,Wallet
+CUST0213,Cheryl Adams,51,Other,Budget,Home Appliances,96.44,6,7,Wallet
+CUST0214,Larry Turner,26,Female,Premium,Fashion,61.69,6,14,Wallet
+CUST0215,Jamie Simmons,18,Other,Budget,Electronics,141.03,1,11,Wallet
+CUST0216,Brandi Whitehead,27,Male,Premium,Home Appliances,125.1,9,9,Card
+CUST0217,Brianna Morris,38,Other,Regular,Electronics,117.43,2,4,Cash
+CUST0218,Donald Stewart,18,Male,Premium,Home Appliances,142.94,6,2,Card
+CUST0219,Christina Bautista,18,Other,Regular,Home Appliances,173.53,7,4,Cash
+CUST0220,Lee Williams,47,Female,Premium,Fashion,75.12,9,1,Wallet
+CUST0221,Erica Shaw,39,Other,Premium,Electronics,119.15,6,13,Card
+CUST0222,Drew Hall,35,Male,Premium,Fashion,119.49,8,12,Card
+CUST0223,Andrew Jones,52,Other,Budget,Electronics,32.15,1,13,Card
+CUST0224,Leah Harrison,31,Male,Premium,Home Appliances,87.96,8,10,Card
+CUST0225,Jordan Dean,22,Other,Budget,Grocery,72.91,6,10,Cash
+CUST0226,Matthew Anderson,31,Other,Regular,Fashion,83.47,2,9,Cash
+CUST0227,Joseph King,30,Male,Regular,Beverages,114.03,9,1,Card
+CUST0228,Anna Quinn,24,Other,Premium,Fashion,124.3,5,10,Card
+CUST0229,Kiara Scott,32,Other,Premium,Home Appliances,157.51,2,2,Wallet
+CUST0230,Jerome Larsen,29,Male,Premium,Dairy,64.23,4,13,Cash
+CUST0231,David Holland,36,Other,Regular,Grocery,53.85,8,10,Wallet
+CUST0232,Eduardo Murphy,33,Male,Premium,Grocery,139.33,5,14,Card
+CUST0233,Matthew Gay,55,Female,Premium,Dairy,71.31,9,2,Card
+CUST0234,Brenda Alvarez,30,Female,Budget,Beverages,155.23,4,9,Wallet
+CUST0235,Danny Bailey,50,Female,Premium,Home Appliances,105.46,4,3,Cash
+CUST0236,Kimberly Harris,18,Male,Premium,Fashion,107.16,1,3,Card
+CUST0237,Clayton Miller,38,Other,Premium,Dairy,12.78,2,11,Card
+CUST0238,Anna Rivera,46,Male,Premium,Home Appliances,90.16,7,1,Card
+CUST0239,Stephanie Roberson,20,Female,Regular,Home Appliances,156.95,7,7,Card
+CUST0240,Benjamin Beck,27,Female,Regular,Electronics,69.83,1,6,Card
+CUST0241,Diana Ellis,38,Female,Regular,Electronics,148.31,7,13,Card
+CUST0242,Michael Day,38,Other,Regular,Dairy,66.96,7,13,Wallet
+CUST0243,Haley Murillo,18,Male,Premium,Dairy,156.48,7,7,Card
+CUST0244,Brandy Allison,49,Male,Premium,Fashion,91.06,7,1,Cash
+CUST0245,Connor Cooper,26,Male,Regular,Dairy,74.78,6,1,Cash
+CUST0246,Cheryl Nash,46,Male,Regular,Fashion,59.0,8,13,Card
+CUST0247,Calvin Gregory,25,Male,Premium,Electronics,79.36,9,8,Wallet
+CUST0248,James Estrada,41,Male,Premium,Dairy,17.89,4,5,Cash
+CUST0249,Katherine Miller,43,Male,Regular,Fashion,158.81,8,5,Wallet
+CUST0250,Bonnie King,29,Other,Budget,Dairy,47.94,5,13,Card
+CUST0251,Katelyn Wilkinson,32,Female,Budget,Home Appliances,83.76,3,6,Wallet
+CUST0252,Larry Kelley,27,Female,Budget,Electronics,5.0,8,1,Wallet
+CUST0253,Christopher Mcdonald,43,Other,Regular,Dairy,73.76,1,10,Wallet
+CUST0254,Paul Adams,22,Female,Premium,Dairy,58.12,3,5,Card
+CUST0255,Lisa Drake,29,Male,Premium,Home Appliances,89.4,5,4,Card
+CUST0256,Corey Jones,28,Male,Budget,Fashion,97.19,8,5,Card
+CUST0257,Alicia Williams,50,Other,Premium,Grocery,79.1,5,9,Cash
+CUST0258,Kelly Garcia,22,Female,Premium,Beverages,124.37,8,7,Wallet
+CUST0259,Paul Reed,18,Male,Regular,Home Appliances,83.87,7,11,Card
+CUST0260,Alexander Jones,18,Other,Premium,Electronics,55.6,3,9,Card
+CUST0261,Darryl Bean,38,Male,Premium,Fashion,144.49,6,7,Wallet
+CUST0262,Ernest Hamilton,19,Other,Budget,Electronics,138.76,7,11,Cash
+CUST0263,Michael Ray,31,Other,Budget,Grocery,67.15,1,12,Card
+CUST0264,Shane George,26,Other,Regular,Dairy,97.71,8,13,Card
+CUST0265,Debbie Norman,41,Other,Premium,Grocery,142.69,2,8,Cash
+CUST0266,Alex Cook,36,Female,Regular,Electronics,124.13,6,11,Wallet
+CUST0267,Melissa Johnston,44,Male,Regular,Grocery,166.51,2,14,Wallet
+CUST0268,Sean Martin,18,Other,Budget,Dairy,92.38,1,14,Cash
+CUST0269,John Fleming,30,Female,Premium,Electronics,115.14,2,2,Cash
+CUST0270,Rickey Hamilton,50,Male,Regular,Dairy,146.88,1,11,Wallet
+CUST0271,Robert Sullivan,55,Other,Budget,Dairy,126.36,1,1,Wallet
+CUST0272,Dustin Clark,24,Male,Regular,Fashion,5.0,2,2,Card
+CUST0273,Clinton Graham,34,Male,Regular,Dairy,72.72,5,12,Wallet
+CUST0274,Kathy Conner,40,Other,Premium,Dairy,76.95,1,6,Cash
+CUST0275,Levi Alvarez,29,Female,Regular,Home Appliances,39.5,1,2,Wallet
+CUST0276,Elizabeth Spencer,38,Other,Budget,Electronics,130.45,2,11,Card
+CUST0277,Jorge Flores,26,Other,Premium,Beverages,123.95,5,1,Cash
+CUST0278,Christian Vasquez,41,Female,Regular,Dairy,119.21,1,5,Cash
+CUST0279,Carol Shepard,40,Male,Regular,Dairy,129.29,3,8,Wallet
+CUST0280,Troy Vance,37,Male,Budget,Beverages,165.7,6,1,Card
+CUST0281,Isabel Baker,35,Male,Budget,Beverages,152.99,4,13,Cash
+CUST0282,Ashley Pena,25,Male,Budget,Grocery,24.55,9,10,Cash
+CUST0283,Joseph Velez,25,Female,Regular,Home Appliances,122.75,1,10,Wallet
+CUST0284,Kevin Obrien MD,65,Male,Budget,Electronics,103.42,7,2,Wallet
+CUST0285,Matthew Mcguire,33,Other,Regular,Electronics,94.2,6,10,Wallet
+CUST0286,Michaela Macias,38,Male,Regular,Fashion,56.53,1,8,Card
+CUST0287,Michelle Alexander,43,Female,Regular,Home Appliances,90.31,3,3,Card
+CUST0288,Miguel Allen,18,Female,Premium,Grocery,42.63,2,14,Card
+CUST0289,Brandy Reed,52,Male,Budget,Fashion,65.24,5,10,Cash
+CUST0290,Roy Brooks,27,Female,Regular,Home Appliances,184.34,4,6,Wallet
+CUST0291,Jesse Richards,50,Female,Premium,Dairy,158.44,9,12,Card
+CUST0292,Veronica Lyons,30,Other,Budget,Grocery,62.34,4,2,Wallet
+CUST0293,Troy Hall,41,Female,Regular,Grocery,18.39,5,4,Cash
+CUST0294,Miguel Flores,20,Female,Regular,Home Appliances,102.46,3,1,Card
+CUST0295,Robert Blanchard,38,Male,Budget,Grocery,118.17,3,8,Card
+CUST0296,Elizabeth Mcfarland,48,Male,Budget,Beverages,122.42,5,3,Wallet
+CUST0297,Paul Allen,42,Other,Regular,Dairy,149.55,9,10,Wallet
+CUST0298,Julie Fischer,39,Other,Premium,Beverages,5.0,8,14,Card
+CUST0299,Christopher Savage,36,Other,Regular,Electronics,177.29,8,2,Cash
+CUST0300,Abigail Lester,44,Female,Regular,Beverages,67.8,7,11,Cash
+CUST0301,Jennifer Boyd,35,Other,Budget,Home Appliances,129.86,5,3,Wallet
+CUST0302,Rachel Montes,36,Male,Premium,Home Appliances,176.74,5,8,Card
+CUST0303,Erin Cole,36,Other,Regular,Fashion,90.64,5,6,Card
+CUST0304,Troy Johnston,23,Female,Regular,Electronics,100.7,6,10,Cash
+CUST0305,Dr. Nancy Tanner,22,Other,Regular,Electronics,154.7,1,4,Card
+CUST0306,Paul Shah,28,Male,Regular,Dairy,111.01,6,1,Card
+CUST0307,Angela Hale,26,Female,Budget,Electronics,182.24,1,12,Wallet
+CUST0308,Taylor Carter,32,Female,Regular,Dairy,110.61,5,7,Cash
+CUST0309,Chad Guerra,19,Male,Regular,Beverages,120.36,3,10,Wallet
+CUST0310,Stephen Miller,29,Other,Premium,Beverages,59.67,8,12,Wallet
+CUST0311,Karen Vargas,42,Male,Premium,Home Appliances,211.27,6,7,Wallet
+CUST0312,William Carter,70,Male,Regular,Grocery,103.74,2,6,Card
+CUST0313,Erica Tran,34,Male,Regular,Home Appliances,144.15,3,6,Card
+CUST0314,Laura Doyle,52,Other,Regular,Beverages,100.91,8,1,Wallet
+CUST0315,Robert Jacobs,55,Female,Premium,Fashion,93.14,3,4,Card
+CUST0316,Jason Harris,56,Female,Premium,Electronics,62.46,4,4,Card
+CUST0317,Rodney Johnson,34,Other,Regular,Electronics,144.28,2,1,Wallet
+CUST0318,Ian Jimenez,23,Male,Budget,Electronics,144.99,9,2,Wallet
+CUST0319,Samantha Simpson,18,Other,Premium,Fashion,96.15,3,5,Cash
+CUST0320,Brian Baker,42,Female,Regular,Home Appliances,106.04,7,5,Card
+CUST0321,Haley Thompson,29,Other,Budget,Electronics,83.03,5,10,Cash
+CUST0322,Garrett King,31,Male,Regular,Beverages,156.1,5,13,Wallet
+CUST0323,Alexander Jimenez,45,Female,Regular,Home Appliances,97.01,6,14,Card
+CUST0324,Shannon Jones,24,Other,Regular,Electronics,158.55,5,9,Wallet
+CUST0325,Matthew Mejia,32,Female,Budget,Beverages,153.36,8,9,Wallet
+CUST0326,Lindsay Nelson,45,Female,Premium,Fashion,134.16,4,12,Card
+CUST0327,Ms. Colleen Cox,49,Female,Regular,Home Appliances,44.54,1,12,Wallet
+CUST0328,Sarah Sexton,23,Other,Premium,Dairy,63.91,4,7,Card
+CUST0329,Erin Alvarez,23,Other,Budget,Home Appliances,10.3,4,5,Cash
+CUST0330,Alexander Roberson,37,Other,Budget,Home Appliances,102.99,1,4,Card
+CUST0331,Allison Caldwell,38,Female,Premium,Home Appliances,80.02,1,1,Cash
+CUST0332,Joseph Martin,25,Male,Budget,Home Appliances,39.85,7,7,Card
+CUST0333,James Castillo,33,Other,Premium,Dairy,50.33,1,1,Card
+CUST0334,Matthew Hancock,36,Other,Regular,Grocery,133.38,9,2,Card
+CUST0335,James Myers,31,Male,Regular,Electronics,13.44,3,6,Wallet
+CUST0336,Judy Johnson,27,Other,Premium,Dairy,130.36,1,4,Cash
+CUST0337,Monica Holden,33,Other,Budget,Beverages,92.68,3,6,Cash
+CUST0338,Catherine Hanson,30,Other,Regular,Home Appliances,196.22,6,12,Wallet
+CUST0339,Charles Gonzalez,38,Female,Regular,Electronics,150.96,2,14,Wallet
+CUST0340,Janice Hill,40,Female,Budget,Grocery,149.35,1,10,Wallet
+CUST0341,Caitlin Joyce,23,Female,Premium,Home Appliances,156.37,8,10,Card
+CUST0342,Ryan Medina,41,Other,Regular,Beverages,84.73,5,5,Cash
+CUST0343,Claire Edwards,28,Other,Budget,Home Appliances,111.86,2,13,Card
+CUST0344,Charles Robertson,32,Male,Budget,Beverages,141.87,5,3,Card
+CUST0345,Christine Fowler,49,Male,Budget,Beverages,102.6,3,12,Wallet
+CUST0346,Jason Bond,49,Female,Budget,Home Appliances,34.96,7,1,Cash
+CUST0347,Laura Mays,27,Other,Budget,Electronics,187.04,7,10,Cash
+CUST0348,Jennifer Poole,27,Female,Budget,Home Appliances,168.02,7,7,Cash
+CUST0349,Alexandra Henson,48,Other,Budget,Fashion,112.4,5,14,Wallet
+CUST0350,Harold Barnes,26,Male,Regular,Grocery,221.76,9,6,Card
+CUST0351,Mikayla Gutierrez,33,Male,Regular,Home Appliances,215.96,7,11,Wallet
+CUST0352,Nicholas Perez,18,Female,Regular,Dairy,90.22,8,9,Card
+CUST0353,David Warner,51,Female,Regular,Home Appliances,100.94,4,5,Cash
+CUST0354,Jennifer Levine,53,Other,Regular,Grocery,5.0,4,3,Card
+CUST0355,Stephen Livingston,29,Other,Regular,Electronics,164.46,1,5,Card
+CUST0356,John Novak,18,Female,Budget,Grocery,88.72,9,8,Card
+CUST0357,Jose Phillips,41,Other,Budget,Dairy,118.8,2,5,Cash
+CUST0358,Larry Hernandez,35,Other,Budget,Electronics,109.87,5,1,Card
+CUST0359,Nicole Diaz,23,Other,Premium,Home Appliances,151.64,8,7,Card
+CUST0360,Christina Murphy,35,Female,Budget,Dairy,140.84,9,5,Wallet
+CUST0361,Logan Robinson,60,Male,Regular,Beverages,143.5,2,9,Card
+CUST0362,Austin Burns,29,Other,Budget,Home Appliances,77.35,6,14,Cash
+CUST0363,Alexis Ramirez,30,Female,Premium,Home Appliances,44.95,7,6,Card
+CUST0364,Jamie Owens,43,Female,Budget,Grocery,22.3,9,2,Wallet
+CUST0365,Andrew Faulkner,33,Other,Regular,Beverages,18.31,9,13,Wallet
+CUST0366,Leonard Obrien,27,Male,Regular,Home Appliances,136.72,8,2,Cash
+CUST0367,Lisa Miller,38,Female,Regular,Home Appliances,102.89,5,11,Cash
+CUST0368,Timothy Higgins,18,Male,Premium,Fashion,82.95,8,13,Cash
+CUST0369,Joseph Vargas,30,Female,Budget,Grocery,12.56,1,7,Cash
+CUST0370,Lisa Garcia,26,Female,Budget,Grocery,84.65,9,14,Cash
+CUST0371,Gabriel Douglas,46,Male,Premium,Grocery,59.2,7,10,Cash
+CUST0372,Jenna Diaz,31,Female,Premium,Dairy,127.52,5,3,Card
+CUST0373,Lisa Campos,30,Other,Premium,Grocery,123.45,4,10,Card
+CUST0374,Justin Diaz,27,Female,Budget,Beverages,125.66,3,3,Wallet
+CUST0375,Kristin Parker,41,Other,Regular,Home Appliances,51.61,9,5,Card
+CUST0376,Theresa Gutierrez,70,Male,Regular,Electronics,62.16,2,14,Card
+CUST0377,Michael Larsen,38,Other,Regular,Fashion,174.45,8,13,Card
+CUST0378,Brianna Bridges,35,Male,Regular,Grocery,65.17,1,4,Cash
+CUST0379,Teresa Rodriguez,30,Other,Budget,Dairy,116.93,4,10,Wallet
+CUST0380,Jose Delgado,28,Male,Budget,Fashion,160.66,6,11,Card
+CUST0381,Susan Miller,25,Female,Regular,Electronics,152.4,9,6,Card
+CUST0382,Catherine Hoover,51,Female,Regular,Dairy,92.59,3,8,Card
+CUST0383,Robert Garcia,34,Other,Premium,Grocery,114.77,7,8,Wallet
+CUST0384,Susan Hurst,38,Male,Regular,Home Appliances,107.13,5,8,Wallet
+CUST0385,Miss Cynthia Brown,29,Other,Premium,Beverages,69.99,8,11,Wallet
+CUST0386,Valerie Reyes,23,Female,Regular,Fashion,5.0,4,7,Card
+CUST0387,Jessica Fernandez,60,Female,Premium,Fashion,61.63,8,9,Card
+CUST0388,Jamie Bowen,54,Female,Premium,Dairy,155.9,3,6,Cash
+CUST0389,Carolyn Perez,20,Male,Premium,Grocery,182.42,7,11,Wallet
+CUST0390,Nathan White,18,Male,Regular,Electronics,52.03,9,13,Wallet
+CUST0391,Kaitlin Stanley,49,Other,Regular,Dairy,93.59,8,6,Card
+CUST0392,Jessica Gallagher,48,Other,Premium,Fashion,133.91,5,1,Card
+CUST0393,Brandon Moore,41,Other,Premium,Beverages,164.89,7,7,Wallet
+CUST0394,Timothy Salazar,24,Male,Premium,Beverages,61.14,9,3,Wallet
+CUST0395,Katelyn Sanchez,18,Female,Premium,Fashion,105.44,7,5,Cash
+CUST0396,Annette Rodriguez,18,Female,Budget,Beverages,55.88,9,5,Card
+CUST0397,Eric Dixon,34,Other,Premium,Beverages,96.65,8,10,Card
+CUST0398,Matthew Martin,36,Other,Regular,Dairy,59.63,4,6,Card
+CUST0399,Ricardo Terry,36,Other,Regular,Grocery,116.69,3,11,Cash
+CUST0400,Andrew Jacobs,30,Other,Budget,Fashion,79.57,9,4,Cash
+CUST0401,Fred Valencia,32,Female,Budget,Fashion,156.98,2,6,Cash
+CUST0402,Amber Olsen,30,Female,Budget,Grocery,117.6,9,2,Cash
+CUST0403,Amanda Carlson,23,Other,Budget,Electronics,120.66,7,14,Wallet
+CUST0404,Kevin Walker,24,Male,Budget,Home Appliances,113.44,5,8,Cash
+CUST0405,Alex Jones,45,Male,Premium,Dairy,60.91,8,5,Cash
+CUST0406,Megan Green,22,Female,Budget,Electronics,115.72,5,4,Wallet
+CUST0407,Evelyn Lewis,18,Male,Premium,Home Appliances,132.07,6,4,Card
+CUST0408,Melissa Ingram,23,Male,Budget,Fashion,129.48,1,5,Cash
+CUST0409,James May,44,Male,Regular,Home Appliances,86.63,2,12,Card
+CUST0410,Stephanie Smith,45,Other,Budget,Dairy,160.13,2,1,Card
+CUST0411,Christopher Smith,18,Other,Budget,Grocery,172.54,5,8,Card
+CUST0412,Mary Lowe,22,Female,Budget,Dairy,147.68,4,3,Cash
+CUST0413,Christopher Myers,18,Female,Premium,Home Appliances,54.36,2,8,Cash
+CUST0414,Donna Blanchard,25,Male,Budget,Fashion,127.4,1,4,Card
+CUST0415,Ryan Kramer,26,Other,Regular,Fashion,159.55,5,7,Wallet
+CUST0416,Marie Collins,29,Male,Budget,Dairy,114.36,9,10,Cash
+CUST0417,Erika Roberts,49,Male,Budget,Beverages,98.02,3,14,Cash
+CUST0418,Angela Alvarez,35,Male,Regular,Beverages,121.22,3,10,Card
+CUST0419,Amanda Perez,43,Male,Budget,Dairy,74.74,9,1,Card
+CUST0420,Keith Bowen,36,Other,Budget,Dairy,116.61,8,13,Wallet
+CUST0421,Mr. Andres Hernandez DVM,33,Male,Budget,Beverages,144.18,2,10,Card
+CUST0422,Lisa Guzman,25,Female,Premium,Dairy,98.63,7,4,Cash
+CUST0423,Michael Cruz,40,Female,Premium,Grocery,87.66,7,13,Card
+CUST0424,Tracy Black,29,Female,Premium,Electronics,110.35,2,13,Wallet
+CUST0425,Adrienne Wilson,21,Female,Budget,Home Appliances,43.27,4,2,Cash
+CUST0426,Taylor Diaz,31,Other,Regular,Electronics,118.85,2,2,Card
+CUST0427,Keith Brown,18,Female,Premium,Grocery,19.57,2,9,Cash
+CUST0428,Christopher Lloyd,44,Male,Budget,Dairy,74.13,5,4,Cash
+CUST0429,Jessica Thomas,32,Female,Budget,Electronics,65.02,3,11,Wallet
+CUST0430,Brian Lynn,20,Male,Regular,Grocery,160.45,7,1,Cash
+CUST0431,Lori Ramirez,29,Male,Regular,Beverages,62.45,3,8,Wallet
+CUST0432,Brent Harrison,38,Other,Regular,Dairy,45.86,1,6,Cash
+CUST0433,Amanda Horton,52,Male,Budget,Grocery,183.31,2,10,Card
+CUST0434,Cheryl Jones,43,Other,Budget,Beverages,123.35,8,4,Card
+CUST0435,Joshua Rodriguez,25,Other,Budget,Electronics,46.37,5,13,Cash
+CUST0436,William Cook,39,Female,Budget,Fashion,112.32,2,12,Card
+CUST0437,Henry Williams IV,45,Male,Premium,Home Appliances,44.83,7,10,Card
+CUST0438,Mr. Jason Bradford,32,Female,Premium,Home Appliances,78.83,1,2,Cash
+CUST0439,Kaitlin Wilson,42,Other,Budget,Dairy,60.04,8,3,Card
+CUST0440,Thomas Valdez,39,Other,Premium,Fashion,54.22,9,5,Wallet
+CUST0441,Nicholas Potts,38,Other,Budget,Dairy,50.21,6,1,Cash
+CUST0442,Norma Newman,42,Other,Premium,Dairy,56.61,8,3,Card
+CUST0443,Adam Johnson,20,Female,Budget,Beverages,113.44,7,3,Card
+CUST0444,Jessica Foster,33,Female,Premium,Beverages,167.75,1,7,Cash
+CUST0445,Stephanie Mcgee,49,Female,Premium,Electronics,100.34,6,4,Cash
+CUST0446,Amy Hall,54,Other,Regular,Electronics,119.73,1,14,Wallet
+CUST0447,Michelle Nash,37,Other,Regular,Fashion,98.53,2,12,Wallet
+CUST0448,Shaun Garrett,38,Other,Regular,Dairy,144.21,4,9,Card
+CUST0449,Alicia Garrett,27,Other,Regular,Electronics,5.0,1,9,Card
+CUST0450,Brenda Davis,26,Male,Premium,Home Appliances,82.02,8,8,Card
+CUST0451,Chris Bass,30,Female,Regular,Grocery,89.26,6,4,Card
+CUST0452,Ashley Daniels,31,Other,Premium,Electronics,209.49,7,9,Wallet
+CUST0453,Robert Williams,37,Other,Budget,Dairy,12.22,7,10,Cash
+CUST0454,Robert Bates,42,Female,Budget,Electronics,170.43,6,5,Cash
+CUST0455,Nichole Hall,29,Female,Budget,Beverages,80.07,4,2,Cash
+CUST0456,David Banks,28,Other,Regular,Beverages,149.38,8,14,Card
+CUST0457,Jasmine Jones,28,Female,Regular,Beverages,163.09,5,1,Card
+CUST0458,Angela Richards,39,Other,Regular,Fashion,118.99,9,10,Cash
+CUST0459,James Booth,19,Other,Premium,Dairy,178.46,3,9,Cash
+CUST0460,Paula Jordan,40,Male,Premium,Fashion,75.63,8,3,Wallet
+CUST0461,John Chang,34,Male,Budget,Dairy,123.43,8,2,Card
+CUST0462,Samuel Thompson,50,Female,Budget,Grocery,103.82,3,9,Card
+CUST0463,Sarah Carter,32,Other,Regular,Electronics,86.69,9,8,Wallet
+CUST0464,Peter Griffith,38,Female,Premium,Grocery,120.36,8,10,Card
+CUST0465,Amanda Weaver,36,Female,Regular,Grocery,63.37,9,12,Card
+CUST0466,Daniel Bennett,18,Other,Regular,Dairy,125.31,8,12,Card
+CUST0467,John Jones,36,Other,Regular,Electronics,70.95,9,10,Card
+CUST0468,Charles Rodriguez,36,Male,Regular,Electronics,105.51,5,1,Card
+CUST0469,Kelly Carter,33,Female,Budget,Home Appliances,24.45,6,2,Cash
+CUST0470,Angelica Smith,18,Male,Budget,Grocery,134.77,1,10,Cash
+CUST0471,Tracey Craig,27,Male,Budget,Dairy,139.7,9,11,Wallet
+CUST0472,Walter Houston,49,Male,Regular,Home Appliances,161.67,5,10,Cash
+CUST0473,Anthony Houston,36,Other,Premium,Grocery,89.68,1,10,Cash
+CUST0474,Leslie Warren,45,Female,Budget,Grocery,101.41,7,1,Wallet
+CUST0475,Sarah Martinez,31,Female,Regular,Fashion,177.09,2,10,Cash
+CUST0476,Ashley Levine,43,Female,Budget,Grocery,181.72,4,13,Card
+CUST0477,Steven Bates,36,Other,Budget,Home Appliances,152.57,1,13,Cash
+CUST0478,Kimberly Chambers,18,Male,Budget,Grocery,176.64,7,3,Cash
+CUST0479,Hannah Brown,23,Female,Budget,Fashion,39.81,6,4,Wallet
+CUST0480,Nancy Black,23,Female,Premium,Dairy,5.0,9,4,Cash
+CUST0481,Erica Roman,18,Other,Budget,Grocery,125.21,4,4,Wallet
+CUST0482,Paige Thomas,29,Female,Regular,Electronics,120.6,7,10,Cash
+CUST0483,Timothy Dorsey,24,Other,Premium,Home Appliances,55.4,9,7,Card
+CUST0484,Shelby Nunez,29,Female,Regular,Home Appliances,86.43,5,7,Card
+CUST0485,Kathryn Rodriguez,45,Other,Premium,Fashion,19.78,7,1,Wallet
+CUST0486,Jeremy Archer,30,Other,Budget,Dairy,5.0,6,6,Wallet
+CUST0487,Justin Gray,38,Male,Regular,Fashion,79.89,3,9,Card
+CUST0488,Robert Collier,18,Female,Premium,Home Appliances,134.44,2,12,Wallet
+CUST0489,David Chandler,40,Other,Budget,Fashion,44.18,2,13,Card
+CUST0490,Sarah Hodges,18,Other,Premium,Electronics,108.94,4,2,Cash
+CUST0491,Charles Gross,50,Other,Premium,Grocery,22.19,9,9,Cash
+CUST0492,Rhonda Hernandez,22,Male,Premium,Grocery,62.57,1,6,Cash
+CUST0493,Ricky Jones,48,Other,Regular,Fashion,8.98,5,7,Wallet
+CUST0494,Gina Brown,28,Other,Regular,Dairy,70.58,5,1,Card
+CUST0495,Jennifer Young,45,Male,Premium,Home Appliances,126.12,4,5,Cash
+CUST0496,Alexis Jimenez,23,Other,Premium,Grocery,107.56,5,5,Card
+CUST0497,Ms. Tracy Johnson DVM,30,Other,Regular,Fashion,26.4,7,10,Card
+CUST0498,Dr. Roy Green,18,Female,Premium,Home Appliances,120.89,5,3,Card
+CUST0499,Mark Moore,26,Male,Premium,Home Appliances,106.92,7,7,Cash
+CUST0500,Brenda Jones,18,Male,Regular,Beverages,112.02,1,3,Wallet
+CUST0501,Timothy Webster,28,Other,Regular,Grocery,140.74,5,6,Wallet
+CUST0502,Laura Casey,19,Female,Premium,Grocery,111.73,5,4,Wallet
+CUST0503,Frank Cunningham,62,Female,Premium,Beverages,163.41,2,13,Cash
+CUST0504,Melissa Garrison,50,Other,Budget,Fashion,75.08,2,8,Wallet
+CUST0505,Joanne Payne,25,Male,Regular,Home Appliances,100.06,8,13,Cash
+CUST0506,Ryan Brown,66,Other,Regular,Fashion,61.68,6,1,Wallet
+CUST0507,Alexander Mitchell,27,Other,Budget,Home Appliances,93.11,9,5,Cash
+CUST0508,Daniel Reeves,31,Male,Premium,Grocery,57.47,1,14,Wallet
+CUST0509,Craig Shaw,53,Other,Budget,Electronics,60.99,8,7,Wallet
+CUST0510,Elijah Morris,18,Other,Premium,Dairy,111.57,5,9,Wallet
+CUST0511,Jason Green,34,Female,Budget,Dairy,73.36,1,7,Card
+CUST0512,Michael Patterson,39,Other,Budget,Beverages,54.87,7,9,Cash
+CUST0513,Jennifer Johnson,46,Other,Premium,Home Appliances,5.0,8,9,Wallet
+CUST0514,Antonio Smith,19,Female,Budget,Dairy,90.68,1,7,Card
+CUST0515,Alejandra Moore,22,Female,Premium,Fashion,212.1,4,8,Wallet
+CUST0516,Mrs. Jessica Cervantes,28,Male,Budget,Grocery,145.97,4,2,Wallet
+CUST0517,Chase Jensen,37,Other,Budget,Dairy,114.36,5,9,Card
+CUST0518,Margaret Wright,41,Male,Regular,Fashion,137.75,2,12,Cash
+CUST0519,Stephanie Hernandez,39,Female,Regular,Dairy,67.86,9,4,Card
+CUST0520,Ryan Lopez,53,Other,Regular,Home Appliances,83.88,2,14,Wallet
+CUST0521,Tony Thompson,30,Male,Premium,Home Appliances,94.28,8,14,Wallet
+CUST0522,Dr. Linda Sharp,50,Female,Regular,Home Appliances,132.36,2,4,Cash
+CUST0523,Troy Evans,30,Male,Regular,Home Appliances,160.83,6,2,Card
+CUST0524,Margaret Robinson,35,Female,Regular,Home Appliances,192.16,1,2,Card
+CUST0525,Daniel Anderson,38,Other,Regular,Beverages,80.39,1,12,Cash
+CUST0526,Cindy Dennis,18,Male,Budget,Dairy,76.48,2,14,Card
+CUST0527,Daniel Wilcox,18,Other,Budget,Electronics,91.3,4,11,Card
+CUST0528,Robert Kennedy,34,Female,Budget,Dairy,163.86,4,12,Cash
+CUST0529,Michael Cook,20,Male,Budget,Electronics,108.22,1,2,Wallet
+CUST0530,Kimberly Figueroa,54,Other,Regular,Grocery,90.02,8,6,Card
+CUST0531,Judith Mitchell,58,Other,Regular,Beverages,146.73,2,14,Cash
+CUST0532,Anna Harrington,43,Female,Regular,Electronics,93.26,2,9,Wallet
+CUST0533,Shane Mcgee,45,Other,Budget,Electronics,98.6,6,6,Card
+CUST0534,Alexander Kaufman,24,Female,Premium,Dairy,34.69,2,8,Card
+CUST0535,Meghan Hall,19,Other,Budget,Grocery,202.19,9,14,Card
+CUST0536,Kathleen Reynolds,29,Other,Premium,Home Appliances,64.76,1,12,Card
+CUST0537,Christine Keith,18,Female,Premium,Dairy,103.39,8,3,Card
+CUST0538,Amy Jones,32,Female,Premium,Electronics,113.57,9,14,Wallet
+CUST0539,Latoya Brock,18,Other,Premium,Beverages,97.49,8,11,Wallet
+CUST0540,David Guzman,32,Female,Budget,Grocery,84.66,2,4,Card
+CUST0541,Timothy Ortega,42,Male,Premium,Dairy,114.2,8,3,Cash
+CUST0542,Megan Sanchez,26,Female,Premium,Dairy,51.0,9,14,Wallet
+CUST0543,Tracy Kim,51,Other,Budget,Home Appliances,104.23,9,14,Card
+CUST0544,Jessica Baird,52,Female,Premium,Electronics,78.75,3,8,Wallet
+CUST0545,Virginia Smith,40,Female,Premium,Home Appliances,150.64,3,5,Cash
+CUST0546,Lori Huynh,61,Female,Regular,Home Appliances,158.54,1,12,Card
+CUST0547,Alexander Wong,44,Other,Regular,Home Appliances,141.41,9,2,Wallet
+CUST0548,Katherine Jordan,52,Other,Regular,Electronics,95.39,9,3,Card
+CUST0549,Michael Walters,43,Male,Budget,Beverages,74.06,3,1,Cash
+CUST0550,Angel Smith,50,Other,Budget,Dairy,149.44,6,10,Cash
+CUST0551,Mary Randolph,18,Other,Regular,Electronics,53.03,9,11,Cash
+CUST0552,Brandon Snyder,30,Male,Regular,Beverages,161.64,4,7,Cash
+CUST0553,Jose Miranda,37,Female,Premium,Fashion,158.42,5,14,Cash
+CUST0554,Maria Grant,40,Male,Budget,Beverages,143.6,9,9,Card
+CUST0555,Charles Dawson,28,Male,Regular,Electronics,86.12,2,4,Card
+CUST0556,Laura Cruz,21,Female,Budget,Beverages,159.89,5,13,Cash
+CUST0557,Margaret Branch,46,Male,Regular,Fashion,148.95,2,9,Card
+CUST0558,Joshua Schwartz,42,Female,Premium,Beverages,21.12,2,7,Cash
+CUST0559,Joe Williams,47,Other,Premium,Beverages,8.48,4,3,Wallet
+CUST0560,Mary Phillips,62,Female,Regular,Beverages,100.96,4,14,Card
+CUST0561,Sarah Christensen,33,Male,Premium,Home Appliances,39.66,9,10,Cash
+CUST0562,Andrew Kidd,18,Female,Premium,Dairy,88.54,2,7,Cash
+CUST0563,Debra Vargas,18,Male,Regular,Fashion,181.19,3,6,Cash
+CUST0564,Nicole Aguirre,63,Other,Regular,Beverages,189.63,5,1,Card
+CUST0565,Jordan Gilmore,25,Female,Regular,Grocery,68.38,9,13,Wallet
+CUST0566,Michele Turner DDS,34,Male,Regular,Home Appliances,139.13,2,8,Card
+CUST0567,Erin Kennedy,27,Female,Budget,Home Appliances,72.25,4,14,Cash
+CUST0568,Steven Flowers,38,Male,Budget,Home Appliances,164.19,7,12,Wallet
+CUST0569,Michelle Brown,27,Other,Premium,Fashion,207.61,9,10,Card
+CUST0570,Elizabeth Johnson,51,Other,Budget,Electronics,87.43,6,3,Wallet
+CUST0571,Jenna Gonzalez,50,Male,Premium,Grocery,135.29,3,1,Card
+CUST0572,Jeremy Morton,18,Female,Premium,Beverages,121.64,3,7,Wallet
+CUST0573,Teresa Roman,29,Other,Regular,Dairy,132.18,2,9,Card
+CUST0574,Brian Patterson,27,Male,Regular,Fashion,60.47,2,5,Card
+CUST0575,Calvin Guerrero,48,Other,Regular,Home Appliances,5.0,4,12,Wallet
+CUST0576,Charles Jacobs,24,Female,Premium,Beverages,64.28,2,14,Card
+CUST0577,David Jackson,34,Male,Budget,Home Appliances,122.05,7,14,Wallet
+CUST0578,Thomas Morton,57,Other,Budget,Grocery,90.02,3,8,Card
+CUST0579,Roger Brown,45,Female,Budget,Electronics,74.34,3,6,Cash
+CUST0580,Jeff Davis,45,Other,Regular,Electronics,61.09,8,8,Wallet
+CUST0581,Timothy Deleon,21,Male,Budget,Fashion,89.54,4,7,Wallet
+CUST0582,George Evans,32,Female,Premium,Grocery,88.93,3,3,Wallet
+CUST0583,Samantha Sims,21,Male,Budget,Grocery,115.73,2,2,Wallet
+CUST0584,Samantha Medina,51,Female,Regular,Electronics,17.86,7,3,Cash
+CUST0585,Mark Adams,31,Female,Budget,Fashion,113.66,3,4,Card
+CUST0586,James Hamilton,45,Male,Premium,Beverages,186.05,4,2,Card
+CUST0587,Jaclyn Miller,18,Female,Budget,Home Appliances,107.94,3,1,Cash
+CUST0588,Michael Flowers,18,Female,Regular,Grocery,24.65,3,8,Card
+CUST0589,Gavin Dean,34,Male,Premium,Fashion,131.96,8,3,Cash
+CUST0590,Jody Mcmillan,43,Other,Regular,Home Appliances,175.38,1,8,Card
+CUST0591,Elizabeth James,18,Other,Regular,Home Appliances,90.52,5,13,Cash
+CUST0592,Nicole Young,20,Female,Budget,Electronics,12.01,5,3,Cash
+CUST0593,Bradley Mcfarland II,20,Female,Premium,Dairy,85.21,5,10,Cash
+CUST0594,Sarah Johnson,18,Female,Premium,Electronics,116.97,6,3,Cash
+CUST0595,Sean Patterson,29,Other,Premium,Electronics,161.7,7,14,Cash
+CUST0596,Brian Lewis,20,Male,Premium,Electronics,131.19,8,3,Cash
+CUST0597,Ethan Joseph,37,Male,Regular,Dairy,93.69,6,6,Cash
+CUST0598,Matthew Golden,46,Male,Budget,Beverages,40.52,8,9,Cash
+CUST0599,Krista Mills,28,Female,Budget,Grocery,37.95,1,4,Wallet
+CUST0600,Jeffery Williams,30,Male,Regular,Home Appliances,142.24,6,11,Wallet
+CUST0601,Joanne Tucker MD,29,Other,Regular,Beverages,129.5,6,10,Wallet
+CUST0602,Shawna Adams,38,Female,Premium,Electronics,137.84,8,4,Card
+CUST0603,Tara Rojas,37,Female,Budget,Fashion,135.93,5,11,Wallet
+CUST0604,Jeffrey Reid,26,Male,Budget,Fashion,65.93,4,10,Wallet
+CUST0605,Taylor King,63,Other,Premium,Electronics,81.98,7,13,Wallet
+CUST0606,Deborah Mack,18,Female,Premium,Electronics,210.63,7,10,Wallet
+CUST0607,Steven Wade,65,Male,Budget,Beverages,116.66,4,6,Wallet
+CUST0608,Matthew Sanchez,41,Male,Budget,Grocery,76.67,3,3,Wallet
+CUST0609,Benjamin Howard,35,Other,Budget,Beverages,195.29,8,1,Card
+CUST0610,Brandon Garza,34,Other,Regular,Grocery,131.07,9,5,Card
+CUST0611,Todd Brown,22,Male,Budget,Home Appliances,135.01,8,3,Wallet
+CUST0612,Evan Strong,31,Other,Premium,Beverages,85.44,7,3,Card
+CUST0613,Maurice Bell,30,Female,Budget,Grocery,141.39,5,14,Cash
+CUST0614,Shane Smith,30,Female,Budget,Electronics,70.21,3,8,Wallet
+CUST0615,Russell Ritter,31,Female,Regular,Fashion,113.29,2,13,Cash
+CUST0616,April Wilson,20,Other,Regular,Home Appliances,117.89,6,4,Wallet
+CUST0617,Melinda Wilson,31,Other,Budget,Dairy,75.71,1,11,Wallet
+CUST0618,Jack Campbell,30,Other,Premium,Grocery,55.2,1,5,Card
+CUST0619,Christopher Allen,38,Male,Regular,Beverages,185.98,4,10,Cash
+CUST0620,Dylan Torres,54,Other,Regular,Dairy,143.2,3,3,Wallet
+CUST0621,Juan Miller,37,Other,Premium,Beverages,187.27,7,6,Card
+CUST0622,Victor Pollard,18,Male,Budget,Dairy,5.0,9,10,Card
+CUST0623,Jennifer Eaton,19,Female,Premium,Beverages,165.22,6,3,Card
+CUST0624,Billy Perkins,32,Female,Budget,Electronics,123.44,1,3,Card
+CUST0625,Kimberly Martinez,26,Male,Budget,Electronics,146.59,5,11,Cash
+CUST0626,Kathleen Rose,26,Female,Premium,Fashion,116.89,8,10,Cash
+CUST0627,Craig Scott,35,Female,Premium,Fashion,134.98,2,7,Card
+CUST0628,Robert Williamson,44,Male,Regular,Dairy,110.75,3,4,Cash
+CUST0629,Taylor Parker,22,Other,Premium,Electronics,81.37,5,2,Cash
+CUST0630,Monique Fisher,24,Male,Budget,Fashion,178.46,8,7,Card
+CUST0631,Michael Bowen,60,Other,Regular,Grocery,88.95,9,7,Wallet
+CUST0632,Steven Diaz,30,Other,Budget,Home Appliances,87.28,8,13,Wallet
+CUST0633,Mark Gonzalez,22,Male,Regular,Grocery,24.37,3,5,Wallet
+CUST0634,Mrs. Stacie Taylor,28,Other,Budget,Grocery,61.7,5,6,Cash
+CUST0635,Mary Villa,38,Other,Regular,Home Appliances,153.8,4,6,Wallet
+CUST0636,Maria Ford,59,Male,Budget,Beverages,36.53,4,13,Card
+CUST0637,Susan Foster,28,Female,Premium,Dairy,100.2,7,3,Cash
+CUST0638,Amber Sanchez,51,Male,Regular,Dairy,130.76,1,6,Cash
+CUST0639,Roberta Reese MD,18,Other,Regular,Beverages,5.0,7,8,Cash
+CUST0640,Keith Robinson,52,Other,Budget,Electronics,89.13,3,3,Card
+CUST0641,Brianna Cummings,22,Male,Premium,Dairy,108.46,7,8,Card
+CUST0642,Michelle Hammond,48,Male,Premium,Electronics,54.68,1,8,Card
+CUST0643,Kelsey Walsh,21,Other,Premium,Home Appliances,106.33,5,3,Wallet
+CUST0644,Stephanie Garcia,27,Other,Budget,Electronics,64.64,4,14,Wallet
+CUST0645,Nicholas Marshall,31,Other,Budget,Grocery,190.87,5,2,Card
+CUST0646,Robert Hawkins,52,Male,Premium,Fashion,49.81,9,4,Wallet
+CUST0647,James Little,21,Other,Budget,Electronics,178.06,1,10,Cash
+CUST0648,Angela Faulkner,30,Other,Budget,Grocery,80.26,9,8,Card
+CUST0649,Allison Blevins,18,Female,Premium,Dairy,136.04,2,3,Card
+CUST0650,Ashley Rodriguez,30,Female,Premium,Beverages,59.03,7,5,Cash
+CUST0651,Brett Dennis,21,Male,Premium,Home Appliances,158.85,5,1,Cash
+CUST0652,Teresa Holder,27,Male,Regular,Grocery,17.34,9,11,Wallet
+CUST0653,Steven Thomas,33,Male,Budget,Fashion,158.51,2,1,Cash
+CUST0654,Melissa Delacruz,22,Female,Regular,Fashion,91.41,9,3,Card
+CUST0655,Tyler Haynes,33,Male,Regular,Home Appliances,98.79,1,6,Cash
+CUST0656,Michael Wang,42,Female,Regular,Fashion,131.08,3,5,Wallet
+CUST0657,Joshua Delgado,18,Male,Regular,Grocery,113.69,3,14,Cash
+CUST0658,Michael Gill,38,Male,Budget,Fashion,51.34,6,10,Card
+CUST0659,Cody Willis,52,Female,Premium,Dairy,48.59,4,9,Wallet
+CUST0660,Lauren Reid,47,Other,Budget,Home Appliances,136.43,2,1,Card
+CUST0661,Christine Lee,44,Female,Premium,Electronics,139.21,3,13,Cash
+CUST0662,Melanie Perez,18,Other,Premium,Electronics,127.85,8,2,Wallet
+CUST0663,Amber Moore,35,Male,Budget,Home Appliances,64.11,8,12,Cash
+CUST0664,Mark Sanchez,31,Other,Regular,Grocery,112.53,6,12,Cash
+CUST0665,Amber Scott,36,Male,Regular,Beverages,80.02,9,6,Card
+CUST0666,Steven Rocha,18,Other,Budget,Fashion,86.61,7,11,Card
+CUST0667,Jennifer Mitchell,53,Male,Premium,Beverages,105.2,2,4,Cash
+CUST0668,Kayla Fisher,52,Female,Regular,Dairy,32.15,3,4,Card
+CUST0669,Timothy Phillips,49,Other,Regular,Home Appliances,152.41,4,12,Cash
+CUST0670,Javier Cooper,26,Other,Premium,Dairy,136.79,6,13,Wallet
+CUST0671,David Henry,45,Female,Premium,Electronics,5.0,4,4,Wallet
+CUST0672,Lisa Morton,33,Other,Budget,Home Appliances,178.45,7,4,Card
+CUST0673,Deborah Knight,38,Other,Budget,Home Appliances,128.07,1,3,Wallet
+CUST0674,Thomas Perez,30,Male,Premium,Fashion,92.59,2,11,Cash
+CUST0675,Eric Smith,34,Male,Premium,Grocery,56.47,4,7,Wallet
+CUST0676,Kelsey Walters,42,Male,Premium,Beverages,140.73,3,9,Card
+CUST0677,Monica Estrada MD,31,Male,Regular,Grocery,91.97,8,5,Card
+CUST0678,April Hampton,35,Male,Regular,Dairy,104.48,4,3,Cash
+CUST0679,Leslie Herrera,40,Female,Budget,Grocery,19.85,5,2,Cash
+CUST0680,Eugene Coleman,41,Other,Premium,Beverages,40.24,1,10,Card
+CUST0681,Jennifer Powers,33,Female,Budget,Electronics,77.53,9,11,Cash
+CUST0682,Brian Brewer,52,Male,Regular,Beverages,108.78,5,1,Wallet
+CUST0683,Charles Long,34,Female,Premium,Fashion,192.97,3,2,Cash
+CUST0684,Shawn Hendricks,41,Other,Budget,Fashion,140.37,5,14,Wallet
+CUST0685,Misty Carr,53,Male,Budget,Home Appliances,112.59,3,9,Cash
+CUST0686,Joshua Freeman,32,Female,Regular,Home Appliances,47.71,2,11,Wallet
+CUST0687,Benjamin Shannon,35,Other,Premium,Electronics,24.91,1,5,Wallet
+CUST0688,John Moreno,44,Other,Budget,Home Appliances,65.07,4,13,Cash
+CUST0689,Brett Rangel,33,Female,Premium,Beverages,145.38,6,2,Cash
+CUST0690,Christina Martin,48,Other,Regular,Dairy,189.93,5,6,Card
+CUST0691,Michelle Marquez,68,Other,Regular,Dairy,26.06,9,13,Cash
+CUST0692,Christopher Clark,38,Female,Budget,Beverages,78.09,1,10,Cash
+CUST0693,Jamie Vega,38,Male,Premium,Electronics,136.0,8,14,Card
+CUST0694,Thomas Williams,23,Other,Regular,Beverages,80.55,1,10,Card
+CUST0695,Nathan Smith,53,Male,Regular,Electronics,49.43,6,13,Wallet
+CUST0696,Jason Mcclain Jr.,32,Male,Premium,Dairy,59.74,8,10,Cash
+CUST0697,Sandra Coleman,20,Female,Budget,Grocery,130.11,7,11,Card
+CUST0698,David Rogers,38,Other,Budget,Grocery,60.44,1,13,Cash
+CUST0699,Shannon Watkins,26,Male,Premium,Home Appliances,13.22,7,6,Card
+CUST0700,Joseph Johnson,35,Male,Regular,Dairy,122.78,1,4,Card
+CUST0701,Edward Martin,32,Female,Regular,Beverages,88.5,3,10,Wallet
+CUST0702,Mr. John Daniels,22,Female,Budget,Home Appliances,203.62,3,10,Wallet
+CUST0703,Christopher George,29,Other,Regular,Home Appliances,10.38,7,9,Card
+CUST0704,James Livingston,32,Female,Budget,Fashion,84.88,3,1,Card
+CUST0705,Carlos Perry,31,Other,Regular,Grocery,120.2,1,6,Card
+CUST0706,Ronald Cook,30,Other,Regular,Fashion,103.75,3,6,Cash
+CUST0707,Richard Morrison,18,Other,Premium,Dairy,88.91,3,14,Cash
+CUST0708,Kimberly Romero,31,Female,Premium,Beverages,115.37,4,8,Card
+CUST0709,Maria Wall,55,Male,Premium,Beverages,174.3,8,2,Cash
+CUST0710,Amber Hernandez,56,Male,Regular,Dairy,87.2,9,13,Wallet
+CUST0711,Robert Wright,44,Other,Premium,Beverages,51.9,9,9,Card
+CUST0712,Julie Armstrong,45,Female,Premium,Grocery,71.26,2,5,Cash
+CUST0713,Charles Meyer,57,Female,Premium,Electronics,95.04,8,10,Wallet
+CUST0714,Matthew Edwards,52,Female,Budget,Grocery,58.25,4,13,Wallet
+CUST0715,Gary Stevens,27,Female,Regular,Dairy,5.0,1,5,Wallet
+CUST0716,Chelsea Barnett,43,Male,Regular,Beverages,120.57,1,12,Cash
+CUST0717,Benjamin Cantrell,33,Female,Regular,Fashion,78.53,8,3,Card
+CUST0718,Kelsey Ramirez,56,Male,Regular,Beverages,5.0,2,14,Wallet
+CUST0719,Angela Le,41,Other,Premium,Home Appliances,66.68,9,3,Card
+CUST0720,John Hubbard,40,Other,Budget,Dairy,121.78,6,14,Card
+CUST0721,Courtney Wright,33,Female,Premium,Electronics,100.66,2,4,Wallet
+CUST0722,Eric Lucas,18,Female,Budget,Dairy,68.58,8,3,Cash
+CUST0723,John Garcia,47,Female,Regular,Grocery,42.88,8,8,Wallet
+CUST0724,Cody Yates DVM,31,Male,Premium,Dairy,91.62,7,8,Wallet
+CUST0725,Matthew Rowe,62,Female,Budget,Electronics,91.92,5,4,Cash
+CUST0726,Jade Miller,39,Male,Budget,Grocery,137.97,7,13,Card
+CUST0727,Nicole Mills,37,Male,Budget,Grocery,102.2,3,12,Cash
+CUST0728,Brenda Scott,18,Female,Regular,Home Appliances,57.44,7,1,Card
+CUST0729,Natasha Bird,29,Other,Budget,Electronics,52.58,1,6,Wallet
+CUST0730,Donald Krueger,66,Male,Budget,Grocery,96.02,1,5,Cash
+CUST0731,Michael Mathis,40,Female,Budget,Electronics,141.68,1,4,Card
+CUST0732,Mr. Kyle Greene,50,Other,Regular,Grocery,112.23,9,10,Cash
+CUST0733,Frederick Chambers,42,Other,Premium,Electronics,33.34,9,11,Cash
+CUST0734,Tiffany Fitzgerald,47,Female,Budget,Home Appliances,84.6,7,7,Wallet
+CUST0735,Neil Lambert,33,Other,Budget,Beverages,100.03,4,8,Cash
+CUST0736,Sergio Brown,34,Male,Budget,Grocery,53.71,7,1,Cash
+CUST0737,Kim Taylor,52,Male,Premium,Beverages,69.81,8,6,Card
+CUST0738,Ronald Collins,27,Other,Budget,Electronics,120.95,8,8,Card
+CUST0739,Angela Lewis,18,Male,Budget,Fashion,115.5,2,2,Card
+CUST0740,Sarah Smith,45,Male,Premium,Grocery,80.6,4,3,Card
+CUST0741,Brian Bell,34,Female,Budget,Grocery,94.2,3,13,Cash
+CUST0742,Joseph Nguyen,24,Male,Budget,Beverages,25.56,7,11,Wallet
+CUST0743,Carol Kelly,38,Female,Premium,Dairy,79.36,7,3,Wallet
+CUST0744,Paula Spence,48,Male,Budget,Home Appliances,108.14,3,2,Wallet
+CUST0745,Dawn York,25,Female,Premium,Fashion,49.14,6,9,Wallet
+CUST0746,Nicole Miller,40,Male,Budget,Grocery,53.46,6,13,Cash
+CUST0747,Johnny Brown,32,Male,Premium,Electronics,97.96,5,10,Wallet
+CUST0748,Gabrielle Lawrence,20,Male,Budget,Beverages,90.76,8,6,Card
+CUST0749,Andrew Johnson,19,Female,Premium,Home Appliances,79.78,6,8,Cash
+CUST0750,Trevor Thompson,45,Female,Budget,Dairy,63.64,9,12,Wallet
+CUST0751,Kristen Wagner,35,Male,Budget,Dairy,80.71,3,2,Cash
+CUST0752,Shane Cameron,56,Other,Budget,Beverages,233.7,2,3,Wallet
+CUST0753,Stephanie Stanley,40,Other,Budget,Dairy,102.79,5,3,Card
+CUST0754,Samantha Valentine,18,Male,Premium,Electronics,142.31,6,11,Card
+CUST0755,Andrew Johnson,44,Female,Budget,Beverages,96.56,8,4,Wallet
+CUST0756,Shawn Collins,33,Other,Regular,Electronics,126.63,1,13,Cash
+CUST0757,Linda Oconnor,24,Male,Regular,Electronics,148.02,9,10,Card
+CUST0758,Eileen George,27,Other,Regular,Dairy,45.36,9,1,Card
+CUST0759,Wendy Gordon,40,Female,Premium,Electronics,177.96,7,10,Wallet
+CUST0760,Sarah Lane,30,Male,Budget,Fashion,133.73,3,9,Card
+CUST0761,Michelle Hickman,52,Other,Regular,Electronics,124.36,8,9,Cash
+CUST0762,Robyn Ross,39,Other,Regular,Dairy,86.2,1,1,Card
+CUST0763,Cristian Lambert,36,Other,Premium,Electronics,69.16,8,12,Cash
+CUST0764,Adrian Wilson,24,Female,Premium,Electronics,113.49,4,9,Wallet
+CUST0765,David Petersen,18,Male,Premium,Grocery,134.24,2,13,Wallet
+CUST0766,Alexis Parrish,28,Other,Premium,Home Appliances,48.6,1,9,Cash
+CUST0767,Crystal Pierce,19,Female,Budget,Beverages,160.7,1,10,Card
+CUST0768,Jeffrey Gibson,22,Female,Budget,Fashion,35.85,2,3,Cash
+CUST0769,Morgan Savage,35,Female,Regular,Fashion,97.86,3,5,Card
+CUST0770,Craig Jackson,35,Other,Regular,Dairy,196.57,2,8,Wallet
+CUST0771,Charles Phillips,51,Male,Regular,Home Appliances,87.09,9,8,Card
+CUST0772,Seth Washington,33,Other,Premium,Grocery,145.36,9,3,Card
+CUST0773,Brian Smith,23,Other,Premium,Home Appliances,115.38,7,6,Wallet
+CUST0774,Frank Frey,34,Other,Premium,Beverages,65.62,3,14,Card
+CUST0775,Pamela Sheppard,30,Female,Regular,Electronics,59.16,2,1,Wallet
+CUST0776,William Steele,35,Female,Regular,Home Appliances,77.64,7,6,Cash
+CUST0777,Jennifer Hinton,39,Male,Budget,Grocery,154.04,9,11,Wallet
+CUST0778,Kelli Snyder,40,Other,Regular,Beverages,85.28,4,2,Cash
+CUST0779,Susan Reyes,44,Other,Budget,Electronics,84.26,1,9,Cash
+CUST0780,Matthew Hughes,18,Male,Budget,Beverages,133.63,1,6,Card
+CUST0781,Leah Guerra,28,Other,Regular,Dairy,90.95,8,12,Card
+CUST0782,John Hernandez,39,Male,Premium,Electronics,134.59,6,14,Card
+CUST0783,Jocelyn Potts,24,Female,Premium,Dairy,40.54,9,4,Cash
+CUST0784,Susan Coleman,40,Male,Regular,Beverages,144.18,7,1,Cash
+CUST0785,Sabrina Turner,36,Female,Regular,Fashion,60.42,4,12,Wallet
+CUST0786,Lisa Jackson,20,Female,Regular,Dairy,72.76,1,13,Card
+CUST0787,Mr. John Williams,49,Other,Regular,Electronics,170.49,3,8,Card
+CUST0788,Ashley Villarreal,18,Other,Budget,Grocery,77.78,8,14,Cash
+CUST0789,Amy Gonzalez,22,Other,Premium,Beverages,177.04,3,9,Wallet
+CUST0790,Valerie Norton,42,Other,Budget,Fashion,153.04,3,10,Card
+CUST0791,Timothy Mccarthy,32,Female,Regular,Electronics,101.07,6,12,Card
+CUST0792,William Ortiz,57,Other,Regular,Dairy,175.75,1,6,Card
+CUST0793,Heather Palmer,38,Other,Budget,Home Appliances,66.83,1,5,Wallet
+CUST0794,Brady Riley,18,Male,Premium,Fashion,48.51,2,10,Wallet
+CUST0795,Karen Friedman,35,Male,Regular,Grocery,52.1,3,4,Wallet
+CUST0796,Jesus Fisher,20,Female,Regular,Dairy,145.12,9,9,Card
+CUST0797,Elizabeth Rodriguez,57,Female,Regular,Fashion,99.68,1,6,Card
+CUST0798,Christopher Owens,29,Female,Budget,Electronics,85.56,9,9,Card
+CUST0799,Erik Lang,18,Other,Premium,Home Appliances,97.96,9,2,Cash
+CUST0800,James Wilson,25,Other,Premium,Home Appliances,45.72,1,8,Wallet
+CUST0801,Joseph Hernandez,38,Male,Regular,Grocery,52.72,3,2,Wallet
+CUST0802,James York,27,Male,Budget,Home Appliances,152.18,8,5,Cash
+CUST0803,Danielle Blanchard,44,Female,Regular,Home Appliances,130.63,7,3,Cash
+CUST0804,Lori Day,24,Male,Premium,Fashion,91.79,7,14,Card
+CUST0805,Brandon Carpenter,38,Female,Regular,Beverages,168.11,6,7,Cash
+CUST0806,Willie Mccarthy,24,Female,Premium,Dairy,236.32,6,5,Cash
+CUST0807,Steven Williams,39,Male,Budget,Beverages,117.81,8,3,Wallet
+CUST0808,Monica Woods,45,Male,Budget,Beverages,126.78,2,13,Wallet
+CUST0809,Micheal Conner,33,Other,Budget,Home Appliances,122.89,3,7,Cash
+CUST0810,Anthony Castro,24,Female,Budget,Grocery,85.85,6,5,Card
+CUST0811,Teresa Williams,48,Other,Regular,Beverages,14.81,1,3,Card
+CUST0812,Anita Davies,33,Other,Premium,Grocery,56.57,7,5,Card
+CUST0813,Sarah Welch,36,Female,Budget,Grocery,133.34,5,13,Wallet
+CUST0814,Courtney Erickson,37,Male,Regular,Grocery,167.62,1,7,Card
+CUST0815,Elizabeth West,31,Female,Regular,Beverages,112.78,1,10,Card
+CUST0816,Leslie Lowe,19,Female,Premium,Electronics,118.55,9,6,Card
+CUST0817,Lauren Ryan,45,Female,Premium,Electronics,60.18,6,8,Cash
+CUST0818,Taylor Dillon,22,Male,Regular,Dairy,5.0,9,6,Cash
+CUST0819,David Larson,42,Female,Regular,Dairy,94.77,8,8,Card
+CUST0820,Rachel Elliott,18,Other,Premium,Home Appliances,122.48,5,3,Cash
+CUST0821,Michael York,39,Female,Budget,Home Appliances,187.55,3,5,Card
+CUST0822,Nicholas Hart,35,Other,Premium,Grocery,186.93,7,11,Wallet
+CUST0823,Nathan Wagner,27,Male,Regular,Dairy,32.87,3,5,Cash
+CUST0824,Victoria Palmer,24,Male,Regular,Dairy,93.01,8,5,Cash
+CUST0825,Jonathan Hall,32,Other,Budget,Dairy,150.2,9,10,Wallet
+CUST0826,Allison Boyer,32,Other,Premium,Beverages,74.59,1,8,Wallet
+CUST0827,Barbara Terry,50,Female,Budget,Fashion,194.08,9,9,Wallet
+CUST0828,Stephanie Shaw,64,Male,Premium,Grocery,112.05,8,4,Wallet
+CUST0829,Brittany Olson,44,Female,Regular,Dairy,127.73,9,3,Card
+CUST0830,Alexis King,47,Male,Budget,Electronics,91.84,4,13,Cash
+CUST0831,Trevor Stephenson,18,Other,Budget,Beverages,108.65,1,6,Wallet
+CUST0832,Trevor Butler,18,Male,Regular,Fashion,129.77,4,6,Card
+CUST0833,Alexander Zimmerman,26,Male,Budget,Dairy,130.62,8,13,Cash
+CUST0834,Henry Nichols,46,Female,Regular,Fashion,147.37,6,11,Wallet
+CUST0835,Robert Pacheco,19,Male,Premium,Grocery,59.84,2,1,Card
+CUST0836,Susan Graves,27,Female,Premium,Fashion,5.0,4,10,Card
+CUST0837,Brittany Ramos,37,Male,Budget,Grocery,109.26,4,5,Cash
+CUST0838,Amy Jackson,41,Other,Regular,Home Appliances,143.94,1,2,Wallet
+CUST0839,Sheila Jones,23,Male,Premium,Grocery,113.97,2,2,Card
+CUST0840,David Rogers,27,Other,Budget,Grocery,84.89,2,4,Card
+CUST0841,Jessica Hicks,33,Male,Premium,Dairy,122.54,4,12,Cash
+CUST0842,Juan Gilbert,37,Other,Premium,Electronics,115.6,9,1,Wallet
+CUST0843,Breanna Acevedo,26,Other,Budget,Electronics,34.01,3,4,Wallet
+CUST0844,Kelly Anderson,18,Other,Budget,Beverages,198.72,9,6,Wallet
+CUST0845,Mr. Robert Rodriguez,27,Male,Regular,Dairy,130.98,3,10,Cash
+CUST0846,Brittney Smith,30,Other,Regular,Fashion,62.07,3,2,Card
+CUST0847,Tyler Murray,31,Male,Budget,Grocery,137.21,9,13,Card
+CUST0848,Robert Haney,29,Female,Premium,Beverages,62.09,6,2,Card
+CUST0849,Jessica Bishop,34,Other,Premium,Beverages,76.22,6,12,Wallet
+CUST0850,Christopher Goodwin,33,Male,Budget,Dairy,108.56,2,4,Card
+CUST0851,Teresa Ortiz,42,Female,Premium,Fashion,118.84,4,12,Wallet
+CUST0852,Amanda Armstrong,30,Male,Regular,Home Appliances,158.49,9,11,Wallet
+CUST0853,Crystal Parker,42,Female,Premium,Grocery,80.8,3,9,Card
+CUST0854,Herbert Mitchell,34,Male,Budget,Fashion,104.75,9,14,Card
+CUST0855,Alexander Brown,36,Male,Budget,Electronics,129.64,6,11,Cash
+CUST0856,Scott Juarez,18,Male,Budget,Electronics,151.31,3,6,Card
+CUST0857,Scott Bradford,29,Female,Budget,Beverages,32.4,1,13,Wallet
+CUST0858,Aimee Le,33,Male,Budget,Beverages,87.78,6,9,Card
+CUST0859,Michael Rivera,38,Female,Premium,Beverages,96.84,7,8,Card
+CUST0860,Michael Skinner,33,Female,Budget,Grocery,188.16,4,9,Wallet
+CUST0861,Michele Underwood,24,Other,Premium,Dairy,122.12,3,5,Card
+CUST0862,Emma Ryan,29,Other,Budget,Dairy,105.66,1,8,Wallet
+CUST0863,Cheryl Daniel,42,Female,Budget,Grocery,165.22,2,1,Card
+CUST0864,Luke Roach,27,Male,Budget,Fashion,122.34,8,10,Wallet
+CUST0865,Michael Henry,26,Other,Budget,Beverages,74.79,9,6,Cash
+CUST0866,Emily Velazquez,37,Other,Premium,Beverages,84.49,1,4,Card
+CUST0867,Carrie Mata,38,Other,Budget,Fashion,71.57,6,14,Cash
+CUST0868,Erica Bartlett,24,Female,Premium,Electronics,128.61,4,4,Wallet
+CUST0869,Jasmine Lewis,30,Male,Budget,Fashion,5.0,5,3,Wallet
+CUST0870,Darren Burns,22,Female,Budget,Home Appliances,123.94,5,6,Wallet
+CUST0871,Sheila Wall,50,Other,Regular,Beverages,166.82,8,2,Wallet
+CUST0872,Ryan Davis,24,Female,Regular,Dairy,120.14,1,2,Card
+CUST0873,Robin Lawson,34,Female,Premium,Beverages,114.82,7,7,Wallet
+CUST0874,Karen Morales,52,Female,Premium,Grocery,92.61,7,4,Cash
+CUST0875,Adam Bender,25,Female,Premium,Grocery,35.57,9,1,Cash
+CUST0876,Amanda Chavez,46,Other,Regular,Home Appliances,46.37,9,13,Cash
+CUST0877,Daniel Schroeder,26,Female,Premium,Fashion,62.58,7,3,Card
+CUST0878,Michele Luna,32,Female,Budget,Beverages,196.22,2,8,Cash
+CUST0879,Chelsey Chase,34,Other,Budget,Fashion,82.32,9,14,Wallet
+CUST0880,Cory Herrera,51,Female,Budget,Electronics,135.41,8,6,Cash
+CUST0881,Nicole Adams,37,Female,Premium,Electronics,113.77,6,12,Card
+CUST0882,Michael Hayes,32,Female,Premium,Electronics,65.08,2,2,Cash
+CUST0883,Tiffany Palmer,51,Male,Budget,Fashion,39.15,2,9,Cash
+CUST0884,Erin Sullivan,44,Female,Budget,Beverages,85.97,6,6,Wallet
+CUST0885,Wayne Gomez,37,Male,Budget,Dairy,123.54,7,10,Card
+CUST0886,Jeffrey Wagner,39,Female,Premium,Fashion,47.3,9,10,Wallet
+CUST0887,Maria Chung,38,Female,Regular,Home Appliances,68.23,2,3,Wallet
+CUST0888,Julie Beck,42,Male,Budget,Grocery,158.3,2,2,Wallet
+CUST0889,Dustin Cooper,18,Female,Regular,Home Appliances,71.57,6,13,Card
+CUST0890,Suzanne Riley,31,Other,Premium,Home Appliances,155.71,6,2,Wallet
+CUST0891,Adrian Martin,25,Other,Budget,Fashion,78.63,3,2,Wallet
+CUST0892,Thomas Williams,18,Male,Regular,Grocery,37.28,8,1,Cash
+CUST0893,Margaret Yang,18,Male,Budget,Beverages,108.25,5,10,Cash
+CUST0894,Courtney Booth,30,Other,Regular,Dairy,116.9,3,3,Wallet
+CUST0895,Pamela Hicks,46,Other,Premium,Electronics,115.56,8,11,Cash
+CUST0896,Veronica Padilla,48,Other,Regular,Beverages,61.78,6,6,Wallet
+CUST0897,William Mills,40,Other,Regular,Dairy,145.65,1,13,Card
+CUST0898,Michael Bowman,31,Male,Premium,Electronics,135.66,9,7,Cash
+CUST0899,Matthew Williams,26,Female,Premium,Electronics,136.55,7,5,Cash
+CUST0900,Andrea Murphy,32,Male,Regular,Electronics,108.12,7,5,Card
+CUST0901,Melissa Johnson,52,Female,Regular,Dairy,83.16,8,9,Card
+CUST0902,Shannon Howard,18,Male,Premium,Beverages,98.0,2,12,Cash
+CUST0903,Isabella Scott,40,Female,Premium,Dairy,122.83,2,8,Cash
+CUST0904,Paul Oneal,44,Other,Premium,Fashion,145.15,3,9,Wallet
+CUST0905,Joseph Morrison,51,Female,Premium,Beverages,169.5,1,10,Wallet
+CUST0906,Brian Wood,24,Male,Budget,Home Appliances,124.88,1,9,Cash
+CUST0907,Richard Rodriguez,38,Other,Budget,Beverages,55.22,3,7,Cash
+CUST0908,Michael Sanchez,39,Female,Premium,Home Appliances,80.04,4,7,Card
+CUST0909,Blake Johnson,42,Other,Budget,Fashion,105.62,1,8,Card
+CUST0910,Judy Adams,19,Other,Premium,Electronics,156.13,9,6,Wallet
+CUST0911,Chad Smith,18,Other,Budget,Fashion,166.83,1,6,Wallet
+CUST0912,Patrick Wright,55,Other,Premium,Dairy,123.61,5,14,Wallet
+CUST0913,Michael Clark,28,Male,Budget,Home Appliances,97.21,5,9,Card
+CUST0914,Anthony Baldwin,40,Male,Premium,Home Appliances,60.42,8,11,Card
+CUST0915,Amy Cooper,49,Other,Regular,Beverages,148.37,7,9,Card
+CUST0916,Andrew Duffy,48,Male,Budget,Grocery,152.1,9,13,Wallet
+CUST0917,Richard Davis,42,Male,Regular,Electronics,110.5,1,7,Card
+CUST0918,Alyssa Lopez,29,Other,Regular,Electronics,142.65,8,6,Wallet
+CUST0919,Brenda Martinez,32,Male,Premium,Home Appliances,103.21,9,7,Wallet
+CUST0920,Dr. Paul Mullen,52,Male,Regular,Home Appliances,216.91,4,11,Card
+CUST0921,William Franklin,41,Other,Premium,Home Appliances,84.26,9,14,Wallet
+CUST0922,Michelle Reid,41,Female,Budget,Fashion,8.08,5,7,Wallet
+CUST0923,Robert Diaz,39,Male,Regular,Beverages,116.47,5,11,Cash
+CUST0924,Sarah Gonzalez,33,Male,Premium,Electronics,123.35,9,3,Card
+CUST0925,Jennifer Drake,35,Male,Regular,Dairy,9.89,4,8,Card
+CUST0926,Matthew Howard,35,Female,Regular,Home Appliances,39.81,8,5,Wallet
+CUST0927,Ian Garrett,24,Male,Budget,Electronics,112.75,1,6,Card
+CUST0928,Brianna Green,37,Other,Budget,Fashion,5.0,5,8,Wallet
+CUST0929,Emily Parker,26,Female,Regular,Home Appliances,92.13,5,13,Wallet
+CUST0930,Marisa Ali,33,Female,Premium,Home Appliances,97.64,6,8,Cash
+CUST0931,Cassandra Leblanc,36,Male,Budget,Fashion,142.61,4,12,Cash
+CUST0932,Jennifer Odonnell,32,Female,Regular,Dairy,32.08,3,3,Card
+CUST0933,Russell Franco,30,Other,Budget,Beverages,57.88,3,10,Cash
+CUST0934,William Baker DVM,28,Other,Regular,Beverages,56.02,7,11,Wallet
+CUST0935,Kelsey Small,48,Male,Regular,Dairy,48.17,1,10,Cash
+CUST0936,Michelle Olson,53,Female,Budget,Grocery,36.74,1,6,Wallet
+CUST0937,Joseph Brown DVM,37,Other,Budget,Grocery,144.43,4,3,Wallet
+CUST0938,Lydia Nichols,66,Female,Budget,Electronics,134.94,7,3,Card
+CUST0939,Jamie Lawson,32,Female,Regular,Fashion,84.73,5,12,Wallet
+CUST0940,Stephanie Elliott,18,Male,Budget,Electronics,139.14,8,8,Wallet
+CUST0941,Michael Jordan DVM,35,Male,Premium,Electronics,54.12,4,5,Wallet
+CUST0942,Kelly Sullivan,39,Female,Premium,Home Appliances,73.0,4,4,Card
+CUST0943,Chase Knight,26,Male,Premium,Electronics,86.81,6,7,Wallet
+CUST0944,Dale Castro,19,Male,Premium,Grocery,122.7,1,11,Cash
+CUST0945,Melissa Reeves,45,Other,Budget,Grocery,142.43,8,11,Cash
+CUST0946,Colton Robinson,49,Male,Budget,Grocery,41.34,4,8,Wallet
+CUST0947,Lauren Beck DDS,20,Male,Budget,Home Appliances,79.49,9,8,Card
+CUST0948,Eric Gonzalez,18,Other,Regular,Home Appliances,53.86,3,8,Card
+CUST0949,Ashley Wright,25,Other,Regular,Beverages,131.98,6,4,Card
+CUST0950,Leroy Cain,64,Female,Premium,Fashion,98.92,9,4,Cash
+CUST0951,Steven Armstrong,52,Male,Regular,Electronics,170.89,1,1,Cash
+CUST0952,Patricia Rangel,26,Male,Premium,Beverages,144.32,1,13,Card
+CUST0953,James Riley,28,Male,Regular,Beverages,82.75,7,14,Cash
+CUST0954,Brian Peters,23,Female,Regular,Electronics,19.84,5,2,Cash
+CUST0955,Cynthia Hall,46,Female,Budget,Beverages,43.99,6,7,Wallet
+CUST0956,Brad Preston,65,Male,Regular,Beverages,76.81,3,2,Card
+CUST0957,Nicholas Landry,24,Female,Regular,Electronics,65.07,6,11,Card
+CUST0958,Nicole Williamson,36,Male,Premium,Fashion,124.86,6,14,Wallet
+CUST0959,Samuel Schwartz,40,Other,Premium,Grocery,118.51,8,6,Cash
+CUST0960,Manuel Butler,28,Female,Regular,Dairy,118.86,8,13,Wallet
+CUST0961,Shirley Williams,39,Other,Premium,Home Appliances,89.56,3,13,Cash
+CUST0962,Jennifer Murphy,28,Other,Regular,Grocery,83.78,5,13,Cash
+CUST0963,Bruce Stokes,40,Male,Budget,Dairy,99.55,7,6,Cash
+CUST0964,Jennifer Smith,32,Female,Regular,Grocery,134.47,3,7,Card
+CUST0965,Chelsea Adams,40,Female,Regular,Electronics,21.76,2,9,Card
+CUST0966,Leslie White,29,Male,Regular,Fashion,145.23,3,14,Card
+CUST0967,Susan Ferguson,24,Male,Budget,Grocery,128.05,9,14,Wallet
+CUST0968,Edward Miller,23,Other,Regular,Home Appliances,116.68,8,2,Card
+CUST0969,Keith Peterson,18,Female,Regular,Dairy,31.8,3,10,Card
+CUST0970,Susan Randolph,36,Female,Premium,Beverages,74.62,3,14,Cash
+CUST0971,David Rivas,25,Male,Budget,Beverages,74.45,7,3,Card
+CUST0972,Andrew Hughes,37,Female,Regular,Dairy,89.6,8,2,Wallet
+CUST0973,Ashley Brown,35,Male,Premium,Home Appliances,126.15,5,8,Cash
+CUST0974,Thomas Garcia,26,Female,Premium,Beverages,55.34,9,3,Card
+CUST0975,Stephen Rodriguez,18,Female,Budget,Beverages,126.69,4,13,Card
+CUST0976,Denise Harris,28,Female,Premium,Home Appliances,19.68,6,3,Cash
+CUST0977,Lindsay Hall,41,Other,Premium,Dairy,131.74,6,2,Wallet
+CUST0978,Douglas Lewis,23,Male,Budget,Dairy,5.0,7,2,Cash
+CUST0979,Glenn Pitts,18,Female,Regular,Electronics,156.56,8,14,Card
+CUST0980,Richard Harrell,35,Male,Budget,Electronics,75.4,1,2,Wallet
+CUST0981,Mary Welch,50,Other,Regular,Home Appliances,117.8,9,9,Cash
+CUST0982,Stephanie Mccarty,24,Female,Budget,Home Appliances,155.08,8,12,Cash
+CUST0983,Robert Miller,52,Male,Regular,Fashion,43.13,8,10,Cash
+CUST0984,Mark Martinez,23,Other,Budget,Fashion,129.57,9,9,Wallet
+CUST0985,Jennifer Jones,25,Female,Regular,Grocery,128.79,5,4,Wallet
+CUST0986,John Morgan,45,Other,Regular,Beverages,144.55,5,11,Wallet
+CUST0987,Ruth Jones,35,Other,Regular,Home Appliances,147.63,5,12,Wallet
+CUST0988,David Wong,22,Female,Budget,Dairy,80.73,4,9,Card
+CUST0989,Robert Doyle,42,Other,Regular,Beverages,91.12,2,14,Wallet
+CUST0990,Dr. Veronica Brady DDS,20,Other,Premium,Home Appliances,107.99,8,14,Card
+CUST0991,Kyle Wall,38,Female,Budget,Electronics,162.18,7,4,Wallet
+CUST0992,Thomas Nelson,38,Female,Regular,Electronics,151.13,7,4,Cash
+CUST0993,Charlene Mitchell,18,Other,Premium,Home Appliances,63.71,6,3,Card
+CUST0994,Jordan Rasmussen,18,Female,Budget,Dairy,170.98,2,5,Card
+CUST0995,Mary Johnson,36,Other,Budget,Grocery,63.33,1,5,Wallet
+CUST0996,Julie Ortega,38,Male,Premium,Beverages,122.18,9,9,Wallet
+CUST0997,John Parrish,52,Other,Budget,Electronics,89.49,5,3,Wallet
+CUST0998,Todd Houston,35,Male,Regular,Beverages,48.26,9,4,Card
+CUST0999,James Herrera,28,Female,Regular,Fashion,102.03,3,12,Card
+CUST1000,Jennifer Webb,27,Other,Regular,Beverages,38.51,1,3,Wallet
