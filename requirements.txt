@@ -1,5 +1,6 @@
 streamlit
 pandas
-matplotlib
-faker
+plotly
 numpy
+faker
+matplotlib
